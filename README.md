@@ -27,7 +27,9 @@ YOUR_PROJECT_NAME
 This app features all the latest tools and practices in mobile development!
 
 
-- https://img.icons8.com/color/72/javascript.png   **React Js** — A JavaScript library for building user interfaces
+
+- ![image](https://user-images.githubusercontent.com/62619506/113426583-0e62a000-93aa-11eb-9f24-a91f05856053.png)
+  **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — A web framework for Node Js
 
