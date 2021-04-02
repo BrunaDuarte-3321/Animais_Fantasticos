@@ -26,7 +26,8 @@ YOUR_PROJECT_NAME
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
+- ![image](https://user-images.githubusercontent.com/62619506/113425749-ce4eed80-93a8-11eb-9b38-2685356d071a.png)
+ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — A web framework for Node Js
 
